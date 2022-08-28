@@ -7,6 +7,9 @@
 \B\.git\b
 ^\.github\b
 \B\.gitignore\b
+\B\.gitattributes\b
+\B\.mailmap\b
+\B\.gitmodules\b
 \b_darcs\b
 \B\.cvsignore$
 
